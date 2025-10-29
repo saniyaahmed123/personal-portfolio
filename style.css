@@ -1234,3 +1234,12 @@ footer{
   color: whitesmoke;
   font-family:'Poppins', sans-serif;
 }
+.items p{
+   font-size: 15px;
+  color: white;
+  line-height: 1.6;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 50px;
+   font-size: 20px;
+
+}
